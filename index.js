@@ -14,7 +14,7 @@ for(let i=0;i<numberOfButtons;i++){
                         moshi.play();
                 }
                 else if(clickedButton === "Shinomiya"){
-                        const kawai=new Audio("sounds/_O Kawaii Koto_ - Kaguya-sama(MP3_320K).mp3");
+                        const kawai=new Audio("sounds/O Kawaii Koto - Kaguya-sama(MP3_320K).mp3");
                         kawai.play();
                 }
                 else if(clickedButton === "Gojo"){
